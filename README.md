@@ -1,4 +1,4 @@
-Worlds most simple BSOD boot loop
+Worlds most simple BSOD boot loop, compile to exe yourself.
 
 WARNING: DO NOT RUN ON PERSONAL COMPUTOR, MAKE SURE YOU ARE IN A VM.
 
